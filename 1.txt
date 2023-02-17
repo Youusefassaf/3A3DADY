@@ -1,0 +1,91 @@
+<html>
+<head>
+	<title>Third preparatory</title>
+        <link href="https://fonts.googleapis.com/earlyaccess/droidarabickufi.css" rel="stylesheet" />
+	<style>
+	footer {
+			background-color: #333;
+			color: #fff;
+			padding: 10px;
+			margin-top: 60px;
+			margin-bottom: 40px;
+			text-align: center;
+			font-size: 25px;
+		}
+body {
+			font-family: 'Droid Arabic Kufi', sans-serif;
+                        background-image: url('https://i.pinimg.com/564x/96/4e/1d/964e1d4408b4baf7a218881235339b5d.jpg');
+			background-size: cover;
+			background-color: black;
+			color: white;
+			font-size: 20px;
+			text-align: center;
+		}
+		
+		li {
+			margin-bottom: 10px;
+		}
+		li a {
+			display: inline-block;
+			background-color: brown;
+			color: #fff;
+			padding: 5px 10px;
+			border-radius: 5px;
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body>
+	<h1>ثالثة اعدادي</h1>
+	<div style="position: absolute; top: 10px; right: 5px; background-color: red; color: white; padding: 5px;">قريبًا</div>
+	<div style="position: absolute; top: 10px; right: 1540px; background-color: red; color: white; padding: 5px;">demo</div>
+	<h2>المواد</h2>
+	<p>اضغط على "المادة" لتحويلك الي الملازم</p>
+	<details>
+  <summary>صفحة المواد</summary>
+  <div style="border: 1px solid #000; padding: 10px;">
+  <ul>
+<li><a href="https://drive.google.com/drive/folders/1EXyppvBdqM9RnlhaSXluaoFM70V7ZQe-?usp=sharing">لغة عربية</a></li>
+--------------------------------
+<li><a href="https://drive.google.com/drive/folders/1OHiY3YVR8k1uQxr6SwlwrDIFNyI4AVvZ?usp=sharing">لغة انجليزية</a></li>
+--------------------------------
+
+<li><a href="https://drive.google.com/drive/folders/15wB3XomSCeool6O7jy1xBmWNj2dIrVkC?usp=sharing">رياضيات</a></li>
+--------------------------------
+
+<li><a href="https://drive.google.com/drive/folders/1qJyy5TqvEsmNPMvKlZGGuruxehd6m3cV?usp=sharing">علوم</a></li>
+--------------------------------
+
+<li><a href="https://drive.google.com/drive/folders/1T8OfD2DCJCELhba5WvBZ_o17O0uefWLx?usp=sharing">دراسات اجتماعية</a></li>
+--------------------------------
+
+<li><a href="https://drive.google.com/drive/folders/1yZ5KLsSeO3gPImIjKMhj5nye5MiBi-IH?usp=sharing">دين اسلامي</a></li>
+  </ul>
+  </div>
+</details>
+<details>
+  <summary>1 اعدادي</summary>
+  <ul>
+    <li><a href="#">soon</a></li>
+    <li><a href="#">قريبا</a></li>
+    <li><a href="#">soon</a></li>
+  </ul>
+</details>
+<details>
+
+  <summary>2 اعدادي</summary>
+  <ul>
+    <li><a href="#">soon</a></li>
+    <li><a href="#">قريبا</a></li>
+    <li><a href="#">soon</a></li>
+  </ul>
+</details>
+
+<footer>creator : mohamed ahmed sahban</footer>
+<footer>google:✖ |
+edge:✔ |
+firefox:✔ |
+web phone:✔ |
+bing:✔ |</footer>
+</body>
+</html>
